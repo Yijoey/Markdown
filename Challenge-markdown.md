@@ -1,5 +1,4 @@
 #### This is H4 sized header
-[go to README.md](../Documents/Markdown/README.md)
 
 [README.md](./README.md/)
 
