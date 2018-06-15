@@ -1,56 +1,54 @@
-#### This is H4 sized header
+#### League of Legends
 
 [README.md](./README.md/)
 
-This is [google](https://www.google.com)
+This is introduction of [League of Legends](https://play.na.leagueoflegends.com/en_US)
 
-This is [slashdot][1]
+click here to [download][1]
 
-[1]:http://slashdot.org
+[1]:https://signup.na.leagueoflegends.com/en/signup/index#/
 
-inline style:
-![Alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+Logo:
+![Alt text](https://lolstatic-a.akamaihd.net/frontpage/apps/prod/playnow-global/en_US/2ba598862d4913d3243c845b5ff216acdd1cf689/assets/img/lol-logo.png)
 
-reference style:
+Favorite champion: Jinx
 ![Alt text][logo]
 
-[logo]:https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
+[logo]:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-7GG6FemQzvbKNAmhsodosB9GFQI5QWNJTB57JRBEI2pMszRm
 
+Abilities:
 
-Here is an example of code block:
-    tell application "Foo"
-        beep
-    end tell
+    Q: Switcheroo!
+    W: Zap!
+    E: Flame Chompers!
+    R: Super Mega Death Rocket!
 
->## a header
->1. first item
->2. second item   
-> This is a block quote
+>## Skin
+>1. Slayer Jinx
+>2. Mafia Jinx  
+>3. Firecracker Jinx
+>4. Star Guardian Jinx
 ***
-- red
-- black
-- green
+Counters well
+- Varus
+- Xayah
+- Kog'Maw
 
 ---
-1. bird
-2. dog
-3. cat
-___
-<table>
-  <tr>
-    <td>1</td>
-    <td>2</td>
-  </tr>
-</table>
+Top Jinx players
+1. Namê
+2. Mistrust
+3. LagsAlot
 
-| Tables        | Are           | Cool  |
+| Core Items      | price         | Win Rate  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Runaan's Hurricane     | 2900 | 56% |
+| Infinity Edge      | 3700   |   59%|
+| The Bloodthirster | 3500      |    60% |
 
-_italics text_
+_All rights reserved_
 
-**bolded text**
+** Quotes: Jinx? Stands for Jinx**
+  
 
-~~scratch this~~
+~~Game ID: Sherlock~~
