@@ -3,4 +3,4 @@
 
 Please click here to see[Challenge-markdown](Challenge-markdown.md)
 
-![Alt text](/Users/zhaoyi/Documents/Markdown/images.jpeg)
+![Alt text](images.jpeg)
