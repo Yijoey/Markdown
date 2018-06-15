@@ -16,6 +16,11 @@ Favorite champion: Jinx
 
 [logo]:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-7GG6FemQzvbKNAmhsodosB9GFQI5QWNJTB57JRBEI2pMszRm
 
+```python
+s = "Best adc in League of Legends"
+print s
+```
+
 Abilities:
 
     Q: Switcheroo!
